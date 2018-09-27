@@ -4,10 +4,10 @@
 #include <iomanip>
 #include <cmath>
 
+using namespace std;
+
 void determine_order (double&a, double&b, double&c);
 double a, b, c;
-
-using namespace std;
 
 int main()
 {
