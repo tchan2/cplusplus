@@ -48,3 +48,4 @@ structure_ptr get_structure (int n, char ch)
         cout << "No dynamic memory available. " << endl;
     cout << "s1 -> f1 = " << s1 -> f1 << " s1 -> f2 = " << s1 -> f2 << endl;
     cout << "s1 -> f3 = " << s1 -> f3 << " s1 -> f4 = " << s1 -> f4 << endl;
+}
