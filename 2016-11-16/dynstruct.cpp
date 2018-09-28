@@ -1,4 +1,5 @@
-// Write a program that creates a dynamic structure with five linked integer nodes, pointed to by strcPtr head, and uses function insert_begin() to insert an integer structure at the beginning of the linked structure.
+// Write a program that creates a dynamic structure with five linked integer nodes, pointed to by strcPtr head, and uses function 
+// insert_begin() to insert an integer structure at the beginning of the linked structure.
 
 #include <iostream>
 #include <iomanip>
