@@ -1,4 +1,7 @@
-// Write a program that 1) Declares two vectors of random integers, each of size 6. 2) Sorts the vectors in the ascending order. 3) Sets function merge_vectors (v, w) in the following way: a) The functions look at the beginning of each vector and copies the smaller elements of the two elements to the resulting vector. b) Copies the remaining vector into the back of the resulting vector. c) Returns the constructed merged vector.
+// Write a program that 1) Declares two vectors of random integers, each of size 6. 2) Sorts the vectors in the ascending order. 
+// 3) Sets function merge_vectors (v, w) in the following way: a) The functions look at the beginning of each vector and copies the
+// smaller elements of the two elements to the resulting vector. b) Copies the remaining vector into the back of the resulting vector. 
+// c) Returns the constructed merged vector.
 
 #include <iostream>
 #include <iomanip>
