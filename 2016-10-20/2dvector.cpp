@@ -1,4 +1,5 @@
-// Write a program that uses the two functions discussed in class to create a "2D" vector that outputs the rows of that vector that have minimum sums.
+// Write a program that uses the two functions discussed in class to create a "2D" vector that outputs the rows of that vector that have 
+// minimum sums.
 
 #include <iostream>
 #include <iomanip>
