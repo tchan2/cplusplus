@@ -30,7 +30,7 @@ int main()
 void initialize (vector <int> & v)
 {
     for (int i = 0; i < SIZE; ++i)
-        v.push_back (int(11*random(seed));
+        v.push_back (int(11*random(seed)));
 }
 
 void print_vector (vector <int> :: iterator b, vector <int> :: iterator e)

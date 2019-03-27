@@ -28,7 +28,7 @@ int main()
                 cout << "Enter student's occupation: ";
                 cin >> soccupation;
             
-                if (studentDir.insertSorted (sname, soccupation)
+                if (studentDir.insertSorted (sname, soccupation))
                     cout << "Insert was done!" << endl;
                 else
                     cout << "Error! Insert was not done!" <<endl;

@@ -14,7 +14,7 @@ struct vector_node
 {
     int sum;
     vector <int> row_vector;
-}
+};
 
 double random (unsigned int &seed);
 unsigned int seed = (unsigned) time (0);

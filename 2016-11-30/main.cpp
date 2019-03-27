@@ -21,7 +21,7 @@ float solveQuad (const double&, const double&, const double&)
         {
             cout << "Imaginary roots." << endl;
             realRoot = -b/(2*a);
-            imagRoot = sqrt9(-(disciminant)) / (2*a);
+            imagRoot = sqrt(-(discriminant)) / (2*a);
             cout << "Your first root is: " << realRoot << " + " << imagRoot << "i" << endl;
             cout << "Your second root is: " << realRoot << " - " << imagRoot << "i" << endl;
         }
